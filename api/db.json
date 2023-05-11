@@ -1,0 +1,728 @@
+{
+  "categories": [
+    {
+      "slug": "electr65656omr",
+      "title": "Electromenager",
+      "color": "#A0ff00",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "slug": "laptops",
+      "title": "Laptops",
+      "color": "#ff0000"
+    },
+    {
+      "title": "Fragrances",
+      "color": "#ffff00",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "slug": "groceries",
+      "title": "Groceries",
+      "color": "#aaaa22"
+    },
+    {
+      "id": 5,
+      "slug": "home-decoration",
+      "title": "Home Decoration",
+      "color": "#cc22cc"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "iPhone 9",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "Apple",
+      "categoryId": 1,
+      "thumbnail": "/files/download/1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "iPhone X",
+      "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+      "price": 899,
+      "discountPercentage": 17.94,
+      "rating": 4.44,
+      "stock": 34,
+      "brand": "Apple",
+      "categoryId": 1,
+      "thumbnail": "/files/download/2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Samsung Universe 9",
+      "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+      "price": 1249,
+      "discountPercentage": 15.46,
+      "rating": 4.09,
+      "stock": 36,
+      "brand": "Samsung",
+      "categoryId": 1,
+      "thumbnail": "/files/download/3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "OPPOF19",
+      "description": "OPPO F19 is officially announced on April 2021.",
+      "price": 280,
+      "discountPercentage": 17.91,
+      "rating": 4.3,
+      "stock": 123,
+      "brand": "OPPO",
+      "categoryId": 1,
+      "thumbnail": "/files/download/4.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Huawei P30",
+      "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+      "price": 499,
+      "discountPercentage": 10.58,
+      "rating": 4.09,
+      "stock": 32,
+      "brand": "Huawei",
+      "categoryId": 1,
+      "thumbnail": "/files/download/5.jpg"
+    },
+    {
+      "id": 6,
+      "title": "MacBook Pro",
+      "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
+      "price": 1749,
+      "discountPercentage": 11.02,
+      "rating": 4.57,
+      "stock": 83,
+      "brand": "APPle",
+      "categoryId": 2,
+      "thumbnail": "/files/download/6.png"
+    },
+    {
+      "id": 7,
+      "title": "Samsung Galaxy Book",
+      "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
+      "price": 1499,
+      "discountPercentage": 4.15,
+      "rating": 4.25,
+      "stock": 50,
+      "brand": "Samsung",
+      "categoryId": 2,
+      "thumbnail": "/files/download/7.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Microsoft Surface Laptop 4",
+      "description": "Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen.",
+      "price": 1499,
+      "discountPercentage": 10.23,
+      "rating": 4.43,
+      "stock": 68,
+      "brand": "Microsoft Surface",
+      "categoryId": 2,
+      "thumbnail": "/files/download/8.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Infinix INBOOK",
+      "description": "Infinix Inbook X1 Ci3 10th 8GB 256GB 14 Win10 Grey – 1 Year Warranty",
+      "price": 1099,
+      "discountPercentage": 11.83,
+      "rating": 4.54,
+      "stock": 96,
+      "brand": "Infinix",
+      "categoryId": 2,
+      "thumbnail": "/files/download/9.jpg"
+    },
+    {
+      "id": 10,
+      "title": "HP Pavilion 15-DK1056WM",
+      "description": "HP Pavilion 15-DK1056WM Gaming Laptop 10th Gen Core i5, 8GB, 256GB SSD, GTX 1650 4GB, Windows 10",
+      "price": 1099,
+      "discountPercentage": 6.18,
+      "rating": 4.43,
+      "stock": 89,
+      "brand": "HP Pavilion",
+      "categoryId": 2,
+      "thumbnail": "/files/download/10.jpeg"
+    },
+    {
+      "id": 11,
+      "title": "perfume Oil",
+      "description": "Mega Discount, Impression of Acqua Di Gio by GiorgioArmani concentrated attar perfume Oil",
+      "price": 13,
+      "discountPercentage": 8.4,
+      "rating": 4.26,
+      "stock": 65,
+      "brand": "Impression of Acqua Di Gio",
+      "categoryId": 3,
+      "thumbnail": "/files/download/11.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Brown Perfume",
+      "description": "Royal_Mirage Sport Brown Perfume for Men & Women - 120ml",
+      "price": 40,
+      "discountPercentage": "",
+      "rating": "",
+      "stock": 52,
+      "brand": "",
+      "categoryId": 3,
+      "thumbnail": "/files/download/12.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Fog Scent Xpressio Perfume",
+      "description": "Product details of Best Fog Scent Xpressio Perfume 100ml For Men cool long lasting perfumes for Men",
+      "price": 13,
+      "discountPercentage": 8.14,
+      "rating": 4.59,
+      "stock": 61,
+      "brand": "Fog Scent Xpressio",
+      "categoryId": 3,
+      "thumbnail": "/files/download/13.webp"
+    },
+    {
+      "id": 14,
+      "title": "Non-Alcoholic Concentrated Perfume Oil",
+      "description": "Original Al Munakh® by Mahal Al Musk | Our Impression of Climate | 6ml Non-Alcoholic Concentrated Perfume Oil",
+      "price": 120,
+      "discountPercentage": 15.6,
+      "rating": 4.21,
+      "stock": 114,
+      "brand": "Al Munakh",
+      "categoryId": 3,
+      "thumbnail": "/files/download/14.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Eau De Perfume Spray",
+      "description": "Genuine  Al-Rehab spray perfume from UAE/Saudi Arabia/Yemen High Quality",
+      "price": 30,
+      "discountPercentage": 10.99,
+      "rating": 4.7,
+      "stock": 105,
+      "brand": "Lord - Al-Rehab",
+      "categoryId": 3,
+      "thumbnail": "/files/download/15.jpg"
+    },
+    {
+      "id": 21,
+      "title": "- Daal Masoor 500 grams",
+      "description": "Fine quality Branded Product Keep in a cool and dry place",
+      "price": 20,
+      "discountPercentage": 4.81,
+      "rating": 4.44,
+      "stock": 133,
+      "brand": "Saaf & Khaas",
+      "categoryId": 4,
+      "thumbnail": "/files/download/21.png"
+    },
+    {
+      "id": 22,
+      "title": "Elbow Macaroni - 400 gm",
+      "description": "Product details of Bake Parlor Big Elbow Macaroni - 400 gm",
+      "price": 14,
+      "discountPercentage": 15.58,
+      "rating": 4.57,
+      "stock": 146,
+      "brand": "Bake Parlor Big",
+      "categoryId": 4,
+      "thumbnail": "/files/download/22.jpg"
+    },
+    {
+      "id": 23,
+      "title": "Orange Essence Food Flavou",
+      "description": "Specifications of Orange Essence Food Flavour For Cakes and Baking Food Item",
+      "price": 14,
+      "discountPercentage": 8.04,
+      "rating": 4.85,
+      "stock": 26,
+      "brand": "Baking Food Items",
+      "categoryId": 4,
+      "thumbnail": "/files/download/23.jpg"
+    },
+    {
+      "id": 24,
+      "title": "cereals muesli fruit nuts",
+      "description": "original fauji cereal muesli 250gm box pack original fauji cereals muesli fruit nuts flakes breakfast cereal break fast faujicereals cerels cerel foji fouji",
+      "price": 46,
+      "discountPercentage": 16.8,
+      "rating": 4.94,
+      "stock": 113,
+      "brand": "fauji",
+      "categoryId": 4,
+      "thumbnail": "/files/download/24.jpg"
+    },
+    {
+      "id": 25,
+      "title": "Gulab Powder 50 Gram",
+      "description": "Dry Rose Flower Powder Gulab Powder 50 Gram • Treats Wounds",
+      "price": 70,
+      "discountPercentage": 13.58,
+      "rating": 4.87,
+      "stock": 47,
+      "brand": "Dry Rose",
+      "categoryId": 4,
+      "thumbnail": "/files/download/25.jpg"
+    },
+    {
+      "id": 26,
+      "title": "Plant Hanger For Home",
+      "description": "Boho Decor Plant Hanger For Home Wall Decoration Macrame Wall Hanging Shelf",
+      "price": 41,
+      "discountPercentage": 17.86,
+      "rating": 4.08,
+      "stock": 131,
+      "brand": "Boho Decor",
+      "categoryId": 5,
+      "thumbnail": "/files/download/26.jpg"
+    },
+    {
+      "id": 27,
+      "title": "Flying Wooden Bird",
+      "description": "Package Include 6 Birds with Adhesive Tape Shape: 3D Shaped Wooden Birds Material: Wooden MDF, Laminated 3.5mm",
+      "price": 51,
+      "discountPercentage": 15.58,
+      "rating": 4.41,
+      "stock": 17,
+      "brand": "Flying Wooden",
+      "categoryId": 5,
+      "thumbnail": "/files/download/27.webp"
+    },
+    {
+      "id": 28,
+      "title": "3D Embellishment Art Lamp",
+      "description": "3D led lamp sticker Wall sticker 3d wall art light on/off button  cell operated (included)",
+      "price": 20,
+      "discountPercentage": 16.49,
+      "rating": 4.82,
+      "stock": 54,
+      "brand": "LED Lights",
+      "categoryId": 5,
+      "thumbnail": "/files/download/28.jpg"
+    },
+    {
+      "id": 29,
+      "title": "Handcraft Chinese style",
+      "description": "Handcraft Chinese style art luxury palace hotel villa mansion home decor ceramic vase with brass fruit plate",
+      "price": 60,
+      "discountPercentage": 15.34,
+      "rating": 4.44,
+      "stock": 7,
+      "brand": "luxury palace",
+      "categoryId": 5,
+      "thumbnail": "/files/download/29.webp"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Terry",
+      "lastName": "Medhurst",
+      "maidenName": "Smitham",
+      "age": 50,
+      "gender": "male",
+      "email": "atuny0@sohu.com",
+      "phone": "+63 791 675 8914",
+      "username": "atuny0",
+      "password": "9uQFF1Lh",
+      "birthDate": "2000-12-25",
+      "image": "/files/download/avatar1.webp",
+      "bloodGroup": "A−",
+      "height": 189,
+      "weight": 75.4,
+      "eyeColor": "Green",
+      "hair": {
+        "color": "Black",
+        "type": "Strands"
+      },
+      "domain": "slashdot.org",
+      "ip": "117.29.86.254",
+      "address": {
+        "address": "1745 T Street Southeast",
+        "city": "Washington",
+        "coordinates": {
+          "lat": 38.867033,
+          "lng": -76.979235
+        },
+        "postalCode": "20020",
+        "state": "DC"
+      },
+      "macAddress": "13:69:BA:56:A3:74",
+      "university": "Capitol University",
+      "bank": {
+        "cardExpire": "06/22",
+        "cardNumber": "50380955204220685",
+        "cardType": "maestro",
+        "currency": "Peso",
+        "iban": "NO17 0695 2754 967"
+      },
+      "company": {
+        "address": {
+          "address": "629 Debbie Drive",
+          "city": "Nashville",
+          "coordinates": {
+            "lat": 36.208114,
+            "lng": -86.58621199999999
+          },
+          "postalCode": "37076",
+          "state": "TN"
+        },
+        "department": "Marketing",
+        "name": "Blanda-O'Keefe",
+        "title": "Help Desk Operator"
+      },
+      "ein": "20-9487066",
+      "ssn": "661-64-2976",
+      "userAgent": "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/12.0.702.0 Safari/534.24"
+    },
+    {
+      "id": 2,
+      "firstName": "Sheldon",
+      "lastName": "Quigley",
+      "maidenName": "Cole",
+      "age": 28,
+      "gender": "male",
+      "email": "hbingley1@plala.or.jp",
+      "phone": "+7 813 117 7139",
+      "username": "hbingley1",
+      "password": "CQutx25i8r",
+      "birthDate": "2003-08-02",
+      "image": "/files/download/avatar2.webp",
+      "bloodGroup": "O+",
+      "height": 187,
+      "weight": 74,
+      "eyeColor": "Brown",
+      "hair": {
+        "color": "Blond",
+        "type": "Curly"
+      },
+      "domain": "51.la",
+      "ip": "253.240.20.181",
+      "address": {
+        "address": "6007 Applegate Lane",
+        "city": "Louisville",
+        "coordinates": {
+          "lat": 38.1343013,
+          "lng": -85.6498512
+        },
+        "postalCode": "40219",
+        "state": "KY"
+      },
+      "macAddress": "13:F1:00:DA:A4:12",
+      "university": "Stavropol State Technical University",
+      "bank": {
+        "cardExpire": "10/23",
+        "cardNumber": "5355920631952404",
+        "cardType": "mastercard",
+        "currency": "Ruble",
+        "iban": "MD63 L6YC 8YH4 QVQB XHIK MTML"
+      },
+      "company": {
+        "address": {
+          "address": "8821 West Myrtle Avenue",
+          "city": "Glendale",
+          "coordinates": {
+            "lat": 33.5404296,
+            "lng": -112.2488391
+          },
+          "postalCode": "85305",
+          "state": "AZ"
+        },
+        "department": "Services",
+        "name": "Aufderhar-Cronin",
+        "title": "Senior Cost Accountant"
+      },
+      "ein": "52-5262907",
+      "ssn": "447-08-9217",
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.30 (KHTML, like Gecko) Ubuntu/11.04 Chromium/12.0.742.112 Chrome/12.0.742.112 Safari/534.30"
+    },
+    {
+      "id": 3,
+      "firstName": "Terrill",
+      "lastName": "Hills",
+      "maidenName": "Hoeger",
+      "age": 38,
+      "gender": "male",
+      "email": "rshawe2@51.la",
+      "phone": "+63 739 292 7942",
+      "username": "rshawe2",
+      "password": "OWsTbMUgFc",
+      "birthDate": "1992-12-30",
+      "image": "/files/download/avatar1.webp",
+      "bloodGroup": "A−",
+      "height": 200,
+      "weight": 105.3,
+      "eyeColor": "Gray",
+      "hair": {
+        "color": "Blond",
+        "type": "Very curly"
+      },
+      "domain": "earthlink.net",
+      "ip": "205.226.160.3",
+      "address": {
+        "address": "560 Penstock Drive",
+        "city": "Grass Valley",
+        "coordinates": {
+          "lat": 39.213076,
+          "lng": -121.077583
+        },
+        "postalCode": "95945",
+        "state": "CA"
+      },
+      "macAddress": "F2:88:58:64:F7:76",
+      "university": "University of Cagayan Valley",
+      "bank": {
+        "cardExpire": "10/23",
+        "cardNumber": "3586082982526703",
+        "cardType": "jcb",
+        "currency": "Peso",
+        "iban": "AT24 1095 9625 1434 9703"
+      },
+      "company": {
+        "address": {
+          "address": "18 Densmore Drive",
+          "city": "Essex",
+          "coordinates": {
+            "lat": 44.492953,
+            "lng": -73.101883
+          },
+          "postalCode": "05452",
+          "state": "VT"
+        },
+        "department": "Marketing",
+        "name": "Lindgren LLC",
+        "title": "Mechanical Systems Engineer"
+      },
+      "ein": "48-3951994",
+      "ssn": "633-89-1926",
+      "userAgent": "Mozilla/5.0 (Windows NT 6.2; Win64; x64; rv:21.0.0) Gecko/20121011 Firefox/21.0.0"
+    },
+    {
+      "id": 4,
+      "firstName": "Miles",
+      "lastName": "Cummerata",
+      "maidenName": "Maggio",
+      "age": 49,
+      "gender": "male",
+      "email": "yraigatt3@nature.com",
+      "phone": "+86 461 145 4186",
+      "username": "yraigatt3",
+      "password": "sRQxjPfdS",
+      "birthDate": "1969-01-16",
+      "image": "/files/download/avatar1.webp",
+      "bloodGroup": "B+",
+      "height": 157,
+      "weight": 95.9,
+      "eyeColor": "Gray",
+      "hair": {
+        "color": "Blond",
+        "type": "Very curly"
+      },
+      "domain": "homestead.com",
+      "ip": "243.20.78.113",
+      "address": {
+        "address": "150 Carter Street",
+        "city": "Manchester",
+        "coordinates": {
+          "lat": 41.76556000000001,
+          "lng": -72.473091
+        },
+        "postalCode": "06040",
+        "state": "CT"
+      },
+      "macAddress": "03:45:58:59:5A:7B",
+      "university": "Shenyang Pharmaceutical University",
+      "bank": {
+        "cardExpire": "07/24",
+        "cardNumber": "3580047879369323",
+        "cardType": "jcb",
+        "currency": "Yuan Renminbi",
+        "iban": "KZ43 658B M6VS TZOU OXSO"
+      },
+      "company": {
+        "address": {
+          "address": "210 Green Road",
+          "city": "Manchester",
+          "coordinates": {
+            "lat": 41.7909099,
+            "lng": -72.51195129999999
+          },
+          "postalCode": "06042",
+          "state": "CT"
+        },
+        "department": "Business Development",
+        "name": "Wolff and Sons",
+        "title": "Paralegal"
+      },
+      "ein": "71-3644334",
+      "ssn": "487-28-6642",
+      "userAgent": "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.17 Safari/537.11"
+    },
+    {
+      "id": 5,
+      "firstName": "Mavis",
+      "lastName": "Schultz",
+      "maidenName": "Yundt",
+      "age": 38,
+      "gender": "male",
+      "email": "kmeus4@upenn.edu",
+      "phone": "+372 285 771 1911",
+      "username": "kmeus4",
+      "password": "aUTdmmmbH",
+      "birthDate": "1968-11-03",
+      "image": "/files/download/avatar1.webp",
+      "bloodGroup": "O+",
+      "height": 188,
+      "weight": 106.3,
+      "eyeColor": "Brown",
+      "hair": {
+        "color": "Brown",
+        "type": "Curly"
+      },
+      "domain": "columbia.edu",
+      "ip": "103.72.86.183",
+      "address": {
+        "address": "2721 Lindsay Avenue",
+        "city": "Louisville",
+        "coordinates": {
+          "lat": 38.263793,
+          "lng": -85.700243
+        },
+        "postalCode": "40206",
+        "state": "KY"
+      },
+      "macAddress": "F8:04:9E:ED:C0:68",
+      "university": "Estonian University of Life Sciences",
+      "bank": {
+        "cardExpire": "01/24",
+        "cardNumber": "4917245076693618",
+        "cardType": "visa-electron",
+        "currency": "Euro",
+        "iban": "IT41 T114 5127 716J RGYB ZRUX DSJ"
+      },
+      "company": {
+        "address": {
+          "address": "8398 West Denton Lane",
+          "city": "Glendale",
+          "coordinates": {
+            "lat": 33.515353,
+            "lng": -112.240812
+          },
+          "postalCode": "85305",
+          "state": "AZ"
+        },
+        "department": "Support",
+        "name": "Adams Inc",
+        "title": "Web Developer I"
+      },
+      "ein": "18-7178563",
+      "ssn": "667-98-5357",
+      "userAgent": "Mozilla/5.0 (Windows NT 6.0) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.1 Safari/535.1"
+    }
+  ],
+  "orders": [
+    {
+      "client_name": "Joe Dow",
+      "client_phone": "+212601020304",
+      "client_address": "N°1, Avenue 1, Tantan",
+      "products": [
+        {
+          "productId": 1,
+          "quantity": 4
+        },
+        {
+          "productId": 2,
+          "quantity": 1
+        },
+        {
+          "productId": 22,
+          "quantity": 1
+        }
+      ],
+      "id": 2
+    },
+    {
+      "client_name": "kskdhasb",
+      "client_phone": "34347736478",
+      "client_address": "fnsdfwkj",
+      "products": [
+        {
+          "productId": 1,
+          "quantity": 1
+        },
+        {
+          "productId": 2,
+          "quantity": 1
+        }
+      ],
+      "is_shipped": true,
+      "id": 3
+    },
+    {
+      "client_name": "smail",
+      "client_phone": "0766553667",
+      "client_address": "Tan-Tan",
+      "products": [
+        {
+          "productId": 2,
+          "quantity": 1
+        },
+        {
+          "productId": 1,
+          "quantity": 1
+        },
+        {
+          "productId": 9,
+          "quantity": "4"
+        }
+      ],
+      "is_shipped": true,
+      "id": 4
+    },
+    {
+      "client_name": "",
+      "client_phone": "",
+      "client_address": "",
+      "products": [
+        {
+          "productId": 1,
+          "quantity": 1
+        },
+        {
+          "productId": 3,
+          "quantity": 5
+        }
+      ],
+      "is_shipped": false,
+      "id": 5
+    },
+    {
+      "client_name": "abderahim",
+      "client_phone": "1234567890",
+      "client_address": "tantant",
+      "products": [
+        {
+          "productId": 1,
+          "quantity": 3
+        },
+        {
+          "productId": 7,
+          "quantity": 1
+        },
+        {
+          "productId": 4,
+          "quantity": 3
+        }
+      ],
+      "is_shipped": true,
+      "id": 6
+    }
+  ]
+}
